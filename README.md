@@ -7,7 +7,7 @@ Projeto desenvolvido no bootcamp Ignite da Rocketseat (trilha Node.js).
 | Entidades | Atributos |
 | - | - |
 | account | id, name, cpf, statement |
-| statement | description, amount, type, createdAt |
+| statement | description, amount, type, created_at |
 
 ## Requisitos
 
