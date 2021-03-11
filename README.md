@@ -8,12 +8,10 @@ Projeto desenvolvido no bootcamp Ignite da Rocketseat (trilha Node.js).
 | - | - |
 | account | id, name, cpf, statemant |
 
-
-
 ## Requisitos
 
 - [x] Deve ser possível criar uma conta
-- [ ] Deve ser possível buscar o extrato bancário do cliente
+- [x] Deve ser possível buscar o extrato bancário do cliente
 - [ ] Deve ser possível realizar um depósito
 - [ ] Deve ser possível realizar um saque
 - [ ] Deve ser possível buscar o extrato bancário do cliente por data
@@ -34,6 +32,7 @@ Projeto desenvolvido no bootcamp Ignite da Rocketseat (trilha Node.js).
 ## Recursos
 
 - Express
+- Dados armazenados em memória
 
 ## Iniciando o projeto
 
